@@ -4,7 +4,7 @@
 
 An Example:
 
-```javascript
+```code
 <link href="css/style.css" rel="stylesheet" type="text/css">
 <script src="js/jquery.mswitch.js" type="text/javascript"></script>
 
