@@ -1,7 +1,7 @@
 /*
  * jQuery mSwitch v.1
  *
- * Copyright (c) 2017 Dario Montalbano
+ * Copyright (c) 2018 Dario Montalbano
  * 
  * For use this library is necessary include jquery-ui autocomplete in your project 
  * 
