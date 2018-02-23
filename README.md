@@ -1,6 +1,6 @@
 # mSwitch
 
-**mSwitch** is a plugin for apply an iOS style to CHECKBOX
+**mSwitch** is a jQuery plugin for apply an iOS style to CHECKBOX
 
 An Example:
 
