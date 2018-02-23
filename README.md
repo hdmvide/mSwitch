@@ -11,11 +11,11 @@ An Example:
 <script>
 $(document).ready(function(){
     $(".m_switch_check:checkbox").mSwitch({
-        onRendered:function(elem){
-            // exec your logic when the render is complete
-        },
         onRender:function(elem){
             // allows to apply a first state to the rendering of the CHECKBOX 
+        },
+        onRendered:function(elem){
+            // exec your logic when the render is complete
         },
         onTurnOn:function(elem){
             // exec your logic when the switch is activated
