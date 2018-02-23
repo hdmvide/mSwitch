@@ -79,6 +79,9 @@
                         $.mSwitch.turnOn(elem);
                     }
                 },
+                onRendered:function(elem){
+                    console.log(elem);
+                },
                 onTurnOn:function(elem){
                     var entity = elem.attr("entity");
                     var label = elem.parent().parent().prev(".m_settings_label");
